@@ -1,4 +1,4 @@
-prvni
-druhy
-treti
-ctvrty
+"nemam rad rizoto."
+"NA = 6.022*10^23"
+"Proc se sudoku jmenuje sudoku, kdyz ma lichy pocet sloupcu, radku, ctvercu i cisel??"
+"sleep well"
